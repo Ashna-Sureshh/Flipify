@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35026.282
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flipify", "Flipify.csproj", "{D9E239B4-E823-4DA7-B934-B3BC06E0EF04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9E239B4-E823-4DA7-B934-B3BC06E0EF04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9E239B4-E823-4DA7-B934-B3BC06E0EF04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9E239B4-E823-4DA7-B934-B3BC06E0EF04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9E239B4-E823-4DA7-B934-B3BC06E0EF04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D67A4F82-A235-44C6-B5D5-092A5814C617}
+	EndGlobalSection
+EndGlobal
